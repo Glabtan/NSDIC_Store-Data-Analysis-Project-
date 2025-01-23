@@ -39,10 +39,8 @@ Explore the Power BI dashboard STORE DATA DASHBOARD.pbix to visualize key insigh
 **Power BI**: For building and presenting interactive dashboards based on the analyzed data.
 
 
-
+## Contribution
 Feel free to contribute to this project by submitting pull requests or reporting issues.
 
-License
 
-This project is licensed under the MIT License.
 
