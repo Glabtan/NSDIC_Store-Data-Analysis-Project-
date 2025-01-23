@@ -28,9 +28,9 @@ The repository includes the following key components:
 
 ## How to Use
 
-Open the Excel file STORE DATA ANALYSIS.xlsx to review the dataset and analysis.
+Open the Excel file **STORE DATA ANALYSIS.xlsx** to review the dataset and analysis.
 
-Explore the Power BI dashboard STORE DATA DASHBOARD.pbix to visualize key insights and trends.
+Explore the Power BI dashboard **STORE DATA DASHBOARD.pbix** to visualize key insights and trends.
 
 ## Tools and Techniques
 
